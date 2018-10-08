@@ -68,7 +68,7 @@ Circular binary segmentation (CBS) is a modification of the traditional binary s
 
 
 [1] [https://liorpachter.wordpress.com/seq/](https://liorpachter.wordpress.com/seq/)
-[2] [High-resolution genome-wide cytosine methylation profiling with simultaneous copy number analysis and optimization for limited cell numbers] (https://academic.oup.com/nar/article-abstract/37/12/3829/1044056)
+[2] [High-resolution genome-wide cytosine methylation profiling with simultaneous copy number analysis and optimization for limited cell numbers](https://academic.oup.com/nar/article-abstract/37/12/3829/1044056)
 
 
 
